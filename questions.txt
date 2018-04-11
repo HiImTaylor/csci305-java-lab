@@ -1,0 +1,22 @@
+Taylor Koth
+Java Lab Questions
+
+1. In my Player super class, I made a variable that holds a move. I used methods that updated the last move a player made as well as a method the returned the move stored. Whenever a player made a move, the method that updated the variable was called. 
+
+2. I gave my MyBot a little bit of backstory in that "he" thought that becuase Lizard and Spock were new to the Rock, Paper, Scissors game, they were a lot stronger than the normal moves. He then used a similar implementation that the RandomBot used to randomly select between Lizard and Spock for his move. 
+
+3. Java is stronly static typed. We as programmers must declare variables within java programs before they can be assigned to any variables. Becuase of this, non public or protected types are bound at compile time. Java is strongly typed in that you can not be vauge about your variables, it needs to be specific, and type casted when need be. 
+
+4. Over the course of many games, I didn't notice any trends other than the bot that chose the same answer over and over never won. Of course, the bot that I know what it's answer will be, I can beat every time. The random bots are a bit harder to beat. 
+
+5. It would be exceptionally difficult to design a Player with a strategy that is more likely to succeed unless you were able to determine what kind of strategy the other player is using. This goes into the world of game theory. Basically, you would be able to implement such a player if you could discover the other players motives for their moves. However, becuase each move has an equal probability of winning, unless you were to bring in another element to the game, such as trickery with words, you couldn't produce a reliable strategy for all players. When I say trickery, I do mean by using coversation to try to psuade the other players move. 
+
+6. The main thing I like about Java is the debugging process. One thing I hate about programming in C is the lack of debuggers.
+
+7. I dislike that it is so strongly typed. I feel that code can look a lot cleaner if we didn't have to declare the variable type. 
+
+8. Yes, I enjoyed this lab. It gave us practice with object oriented programming in a more fun way than most projects. It also allowed us to practice this style of programming without having to implement any other more difficult pracitce. i.e. the majority of the actual operation of the game can be done with print and scanner statements. These then give us inputs to use in loops to figure out what to do next. 
+
+9. About 7 hours
+
+10. The majority of my classes here at MSU have used Java, and it is by far what I'm most comfortable with. 
